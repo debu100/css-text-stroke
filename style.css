@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #262626;
+}
+
+h1 {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: rgba(255, 166, 0, 0.581);
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  font-size: 6em;
+  -webkit-text-fill-color: transparent;
+  -webkit-text-stroke-width: 2px;
+}
